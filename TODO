@@ -1,0 +1,10 @@
+clean up code -
+	need to refactor certain routines
+	switch from a 'if this, then that' to a cleaner function
+
+document - 
+	need to do a better job of documenting the code
+	need to create better usage/help routine
+
+create readme -
+	give some idea of how to use it in a readme
